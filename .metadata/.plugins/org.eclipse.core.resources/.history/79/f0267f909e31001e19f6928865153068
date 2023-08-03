@@ -1,0 +1,5 @@
+package com.api.entregaapi.model;
+
+public class cliente {
+
+}
